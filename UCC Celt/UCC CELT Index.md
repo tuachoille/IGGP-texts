@@ -1,6 +1,6 @@
 ---
 title: UCC CELT Index
-draft: true
+draft: false
 tags:
 ---
 This is the draft landing page for UCC Celt texts.
