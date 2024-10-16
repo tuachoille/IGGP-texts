@@ -1,5 +1,5 @@
 ---
-title: 
-draft: false
-tags: []
+title: "<% tp.file.title %>"
+draft: true
+tags:
 ---
