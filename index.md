@@ -6,4 +6,4 @@ tags:
 This is a placeholder landing page.
 
 [[Mary Jones's Celtic Literature Collective]]
-[[UCC CELT]]
+[[UCC CELT Index]]

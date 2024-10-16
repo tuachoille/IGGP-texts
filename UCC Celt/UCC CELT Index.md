@@ -1,5 +1,5 @@
 ---
-title: "UCC CELT"
+title: UCC CELT Index
 draft: true
 tags:
 ---
