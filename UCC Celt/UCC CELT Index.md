@@ -5,6 +5,6 @@ tags:
 ---
 This is the draft landing page for UCC Celt texts.
 
-[[UCC CELT Test 4]]
+[[UCC CELT Test 6]]
 
-[[UCC Celt Test 5]]
+[[UCC Celt Test 7]]
